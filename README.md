@@ -4,6 +4,7 @@
 
 1. [Project 1](link-to-project1): 3d-boxes-background with a magic transition.
 2. [Project 2](link-to-project2): Animated Countdown.
-3. ...
+3. [Project 3](link-to-project2): Animated Navigation.
+   
 
 Explore the beauty of code and design in these projects. Each one is a small masterpiece!
