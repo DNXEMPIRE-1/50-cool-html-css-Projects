@@ -4,8 +4,8 @@
 
 1. [Project 1](link-to-project1): 3d-boxes-background with a magic transition.
 2. [Project 2](link-to-project2): Animated Countdown.
-3. [Project 3](link-to-project2): Animated Navigation.
-4. [Project 4](link-to-project2): auto-text-effect.
-   
+3. [Project 3](link-to-project3): Animated Navigation.
+4. [Project 4](link-to-project4): auto-text-effect.
+5. [Project 5](link-to-project5): background-slider.
 
 Explore the beauty of code and design in these projects. Each one is a small masterpiece!
