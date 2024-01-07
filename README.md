@@ -8,5 +8,7 @@
 4. [Project 4](link-to-project4): auto-text-effect.
 5. [Project 5](link-to-project5): background-slider.
 6. [Project 6](link-to-project6): blurry-loading.
+7. [Project 7](link-to-project7): button-ripple-effect.
+8. [Project 8](link-to-project8): content-placeholder.
 
 Explore the beauty of code and design in these projects. Each one is a small masterpiece!
