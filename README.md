@@ -11,7 +11,7 @@
 7. [Project 7](link-to-project7): button-ripple-effect.
 8. [Project 8](link-to-project8): content-placeholder.
 9. [Project 8](link-to-project8): content-placeholder.
-10. [Project 8](link-to-project8): content-placeholder.
+10. [Project 8](link-to-project8): Dad Jokes.
 11. [Project 8](link-to-project8): content-placeholder.
 
 Explore the beauty of code and design in these projects. Each one is a small masterpiece!
