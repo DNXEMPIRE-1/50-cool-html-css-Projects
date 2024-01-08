@@ -10,7 +10,7 @@
 6. [Project 6](link-to-project6): blurry-loading.
 7. [Project 7](link-to-project7): button-ripple-effect.
 8. [Project 8](link-to-project8): content-placeholder.
-9. [Project 8](link-to-project8): content-placeholder.
+9. [Project 8](link-to-project8): custome range slider.
 10. [Project 8](link-to-project8): Dad Jokes.
 11. [Project 8](link-to-project8): Double click heart animation.
 
