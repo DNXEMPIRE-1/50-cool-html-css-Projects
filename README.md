@@ -15,6 +15,6 @@
 11. [Project 8](link-to-project8): Double click heart animation.
 12. [Project 9](link-to-project9): toast-notification.
 13. [Project 10](link-to-project10):todo-list
-14. [Project 11](link-to-project11):
+14. [Project 11](link-to-project11):verify-account-ui
 
 Explore the beauty of code and design in these projects. Each one is a small masterpiece!
