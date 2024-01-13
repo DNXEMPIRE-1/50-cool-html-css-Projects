@@ -10,10 +10,10 @@
 6. [Project 6](link-to-project6): blurry-loading.
 7. [Project 7](link-to-project7): button-ripple-effect.
 8. [Project 8](link-to-project8): content-placeholder.
-9. [Project 8](link-to-project8): custom range slider.
-10. [Project 8](link-to-project8): Dad Jokes.
-11. [Project 8](link-to-project8): Double click heart animation.
-12. [Project 9](link-to-project9): toast-notification.
+9. [Project 9](link-to-project9): custom range slider.
+10. [Project 10](link-to-project10): Dad Jokes.
+11. [Project 11](link-to-project11): Double click heart animation.
+12. [Project 12](link-to-project12): toast-notification.
 13. [Project 10](link-to-project10):todo-list
 14. [Project 11](link-to-project11):verify-account-ui
 15. [Project 12](link-to-project12):
