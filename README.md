@@ -22,10 +22,10 @@
 18. [Project 18](link-to-project18):
 19. [Project 19](link-to-project19):
 20. [Project 20](link-to-project20):
-21. [Project 20](link-to-project20):
-22. [Project 20](link-to-project20):
-23. [Project 20](link-to-project20):
-24. [Project 20](link-to-project20):
-25. [Project 20](link-to-project20):
+21. [Project 20](link-to-project21):
+22. [Project 20](link-to-project22):
+23. [Project 20](link-to-project23):
+24. [Project 20](link-to-project24):
+25. [Project 20](link-to-project25):
 
 Explore the beauty of code and design in these projects. Each one is a small masterpiece!
