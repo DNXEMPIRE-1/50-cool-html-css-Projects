@@ -20,8 +20,8 @@
 16. [Project 16](link-to-project16): random-image-generator 
 17. [Project 17](link-to-project17): rotating-nav-animation 
 18. [Project 18](link-to-project18): scroll-animation
-19. [Project 19](link-to-project19):
-20. [Project 20](link-to-project20):
+19. [Project 19](link-to-project19): sound-board
+20. [Project 20](link-to-project20): split-landing-page
 21. [Project 21](link-to-project21):
 22. [Project 22](link-to-project22):
 23. [Project 23](link-to-project23):
