@@ -14,17 +14,17 @@
 10. [Project 10](link-to-project10): Dad Jokes.
 11. [Project 11](link-to-project11): Double click heart animation.
 12. [Project 12](link-to-project12): toast-notification.
-13. [Project 13](link-to-project13): todo-list
-14. [Project 14](link-to-project14): verify-account-ui
-15. [Project 15](link-to-project15): random-choice-picker
-16. [Project 16](link-to-project16): random-image-generator 
-17. [Project 17](link-to-project17): rotating-nav-animation 
-18. [Project 18](link-to-project18): scroll-animation
-19. [Project 19](link-to-project19): sound-board
-20. [Project 20](link-to-project20): split-landing-page
-21. [Project 21](link-to-project21):
-22. [Project 22](link-to-project22):
-23. [Project 23](link-to-project23):
+13. [Project 13](link-to-project13): todo-list.
+14. [Project 14](link-to-project14): verify-account-ui.
+15. [Project 15](link-to-project15): random-choice-picker.
+16. [Project 16](link-to-project16): random-image-generator.
+17. [Project 17](link-to-project17): rotating-nav-animation .
+18. [Project 18](link-to-project18): scroll-animation.
+19. [Project 19](link-to-project19): sound-board.
+20. [Project 20](link-to-project20): split-landing-page.
+21. [Project 21](link-to-project21): sticky-navigation.
+22. [Project 22](link-to-project22): testimonial-box-switcher.
+23. [Project 23](link-to-project23): theme-clock.
 24. [Project 24](link-to-project24):
 25. [Project 25](link-to-project25):
 
