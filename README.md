@@ -18,8 +18,8 @@
 14. [Project 14](link-to-project14): verify-account-ui
 15. [Project 15](link-to-project15): random-choice-picker
 16. [Project 16](link-to-project16): random-image-generator 
-17. [Project 17](link-to-project17):
-18. [Project 18](link-to-project18):
+17. [Project 17](link-to-project17): rotating-nav-animation 
+18. [Project 18](link-to-project18): scroll-animation
 19. [Project 19](link-to-project19):
 20. [Project 20](link-to-project20):
 21. [Project 21](link-to-project21):
