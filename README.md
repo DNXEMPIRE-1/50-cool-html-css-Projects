@@ -16,7 +16,7 @@
 12. [Project 12](link-to-project12): toast-notification.
 13. [Project 13](link-to-project13):todo-list
 14. [Project 14](link-to-project14):verify-account-ui
-15. [Project 15](link-to-project15):
+15. [Project 15](link-to-project15):random-choice-picker
 16. [Project 16](link-to-project16):
 17. [Project 17](link-to-project17):
 18. [Project 18](link-to-project18):
